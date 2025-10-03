@@ -3,3 +3,6 @@
 3.- Desarrollo de Interfaces
 4.- Optativa
 5.- Proyecto Intermodular
+6.- Programacion de Servicio y Procesos
+7.- Ingles Profesional
+8.- Itinerario Personal para la Empleabilidad ||
