@@ -6,7 +6,7 @@
 6.- Programacion de Servicio y Procesos
 7.- Ingles Profesional
 8.- Itinerario Personal para la Empleabilidad ||
-
+9.- Sistema de gestion empresarial ( version desde main)
 Tareas Pendientes:
 
 Entregar la AEE de Git
